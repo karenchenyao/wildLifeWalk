@@ -1,0 +1,30 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+#Description,
+#Name,
+#Email {
+  font-size: 100%;
+  width: 600px;
+}
+
+#Notes,
+#License {
+  font-size: 100%;
+  width: 620px;
+}
+
+#Species,
+#Date,
+#Latitude,
+#Longitude {
+  font-size: 100%;
+  width: 150px;
+}
+
+.help {
+  color: blue;
+}
